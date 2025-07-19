@@ -3,7 +3,7 @@
 Codelabs are interactive instructional tutorials, which can be authored in Google Docs
 using some simple formatting conventions. You can also author codelabs using markdown syntax.
 This repo contains all the tools and documentation you’ll need for building and publishing
-your own codelabs.
+your own code.
 
 If you're interested in authoring codelabs, create a doc following the [Codelab Formatting Guide](FORMAT-GUIDE.md). 
 and see the [claat](claat) directory for a detailed description of the `claat` command line tool.
